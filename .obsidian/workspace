@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "dbd9849582e1f7b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ecdbd3a48ea61e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cbea64362bea061",
+    "type": "split",
+    "children": [
+      {
+        "id": "b732ebd9ead577f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b755503c4437eeb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1df7ccd19e7d6ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0aa44a6d667b2a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b7bada7ab672029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebd27c503af450f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62ecdbd3a48ea61e",
+  "lastOpenFiles": [
+    "README.md.md"
+  ]
+}
